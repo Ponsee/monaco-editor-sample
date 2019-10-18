@@ -9,7 +9,7 @@
     "build": "webpack --mode production"
   },
   "keywords": [
-	  "monaco-editor","react monaco-editor example","code editor example","vscode","react"
+	  "monaco-editor","react monaco-editor example","code editor example","vscode","react","sample-editor"
   ],
   "author": "Ponseelan",
   "license": "MIT",
