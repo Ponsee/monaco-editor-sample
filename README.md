@@ -1,4 +1,4 @@
-# monaco-editor_example
+# monaco-editor-sample
 This app is an example of monaco-editor using react 
 
 # Installation
