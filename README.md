@@ -3,12 +3,9 @@ This app is an example of monaco-editor using react
 
 # Installation
 ```
-$ npm install <br />
-```
-```
-```
-$ npm start for development mode <br />
-```
-```
-$ npm run build for production mode <br />
+$ npm install 
+
+$ npm start for development mode 
+
+$ npm run build for production mode 
 ```
