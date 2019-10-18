@@ -9,10 +9,10 @@
     "build": "webpack --mode production"
   },
   "keywords": [
-	  "monaco-editor","react monaco-editor example","code editor example"
+	  "monaco-editor","react monaco-editor example","code editor example","vscode","react"
   ],
   "author": "Ponseelan",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.6.4",
     "@babel/preset-env": "^7.6.3",
